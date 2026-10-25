@@ -1,0 +1,120 @@
+{
+  "avatar": "avatar.png",
+  "banner": "banner.jpg",
+  "works": [
+    {
+      "image": "works/blood-night.jpg",
+      "title": "Blood Night",
+      "caption": "Event key art: a capital-ship fleet under a red sun. Three-tone palette, 4K.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/cage-night.jpg",
+      "title": "Cage Night",
+      "caption": "Event key art: a gunship nose to nose with an armoured pilot, fighters overhead.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/ironpoint-skull.jpg",
+      "title": "Skull Trooper poster",
+      "caption": "Recruitment poster with hand-painted lettering. 2000×2400.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/ironpoint-fighter.jpg",
+      "title": "Fighter Over the Smoke poster",
+      "caption": "Recruitment poster: a heavy fighter climbing out of a smoke column.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/blood-night-alt.jpg",
+      "title": "Blood Night, alternate",
+      "caption": "Second cut of the event art: a fighter breaking past a bone-white moon.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/tournament.jpg",
+      "title": "Tournament",
+      "caption": "Head-to-head key art for a pilots' tournament.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/vanguard.jpg",
+      "title": "Vanguard",
+      "caption": "Wide 3:1 backdrop: a lone figure under a landing fleet, made for stream and site headers.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/corsair.jpg",
+      "title": "Corsair",
+      "caption": "Ship portrait with a crest stamp, made as a fleet showcase card.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/wreck-moon.jpg",
+      "title": "Wreck Under the Moon",
+      "caption": "Wide 3:1 banner: a broken hull drifting across a red sky.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/hound-bones.jpg",
+      "title": "Hound Bones",
+      "caption": "Black-and-bone study of the studio's hound skeleton. Banner format.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/card-corsair.jpg",
+      "title": "Role card: Corsair",
+      "caption": "One of a set of tall 1:2 role cards, here a ship silhouette in red haze.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/card-raider.jpg",
+      "title": "Role card: Raider",
+      "caption": "Same set: a sidearm silhouette with dripping paint.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/card-raptor.jpg",
+      "title": "Role card: Raptor",
+      "caption": "Same set: a fighter against a black sun.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/crest-raptor-council.png",
+      "title": "Council crest",
+      "caption": "Knotwork crest with spread wings, drawn as a single-colour mark.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/crest-prestiges.png",
+      "title": "Prestige marks",
+      "caption": "Three rank insignia drawn as one family: wings, crossed axes, knot ring.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/crest-ace.png",
+      "title": "Ace mark",
+      "caption": "Winged knotwork badge for top pilots.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/crest-mountain.png",
+      "title": "Mountain mark",
+      "caption": "Brush-ring logo with a twin peak, single colour.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/crest-wolf.png",
+      "title": "Wolf badge",
+      "caption": "Round red-and-black wolf emblem with paint drips.",
+      "skill": "2d-art"
+    },
+    {
+      "image": "works/hound-mark.png",
+      "title": "Hound mark",
+      "caption": "Personal avatar: a cross-eyed hound skull in bone and red.",
+      "skill": "2d-art"
+    }
+  ]
+}
